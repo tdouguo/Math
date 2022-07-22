@@ -1,0 +1,9 @@
+{
+  "name": "com.tdouguo.math",
+  "displayName": "Math",
+  "description": "Unity Math Library",
+  "unity": "2021.3",
+  "dependencies": {},
+  "license": "MIT",
+  "version": "1.0.0"
+}
