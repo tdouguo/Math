@@ -4,5 +4,6 @@
   "description": "Unity Math Library",
   "unity": "2021.3",
   "dependencies": {},
+  "license": "MIT",
   "version": "1.0.0"
 }
